@@ -9,8 +9,13 @@ body {
   display: flex;
   flex-direction: column;
   font-family: system-ui, sans-serif;
+<<<<<<< Updated upstream
   background: #000000;
   color: #111;
+=======
+  background: #ffffff;
+  color: #233c06;
+>>>>>>> Stashed changes
 }
 
 h1 {
